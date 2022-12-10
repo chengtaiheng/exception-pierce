@@ -19,7 +19,7 @@
         <encoding>UTF-8</encoding>
         <java.version>1.8</java.version>
         <springboot.version>2.0.6.RELEASE</springboot.version>
-        <spring.version>5.1.0.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <springcloud.version>Finchley.RELEASE</springcloud.version>
         <carnival.version>1.1.5-SNAPSHOT</carnival.version>
         <jackson.version>2.9.9</jackson.version>
